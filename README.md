@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zerotwoadarsh" target="blank"><img src="https://img.shields.io/twitter/follow/zerotwoadarsh?logo=twitter&style=for-the-badge" alt="zerotwoadarsh" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Java, JavaScript and React**
 
